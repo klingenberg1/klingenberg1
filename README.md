@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me code
+- 📫 How to reach me: thomaskl0111@gmail.com
 
 <!---
 klingenberg1/klingenberg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
